@@ -9,7 +9,7 @@
 
 This repository is not complete, and hopefully it never is as there are new ecosystems and repositories created everyday.
 
-## How to Contribute
+### How to Contribute
 
 There's a couple of ways you can help grow this initiative.
 
